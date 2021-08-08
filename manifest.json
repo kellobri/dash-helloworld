@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "python-dash",
+    "entrypoint": "app"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.7.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "20.0.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "b39bc4692b5f28fda4a6f0ad96f64b4c"
+    },
+    "app.py": {
+      "checksum": "ae294794b14d55dafb26b0d8a999205f"
+    }
+  }
+}
